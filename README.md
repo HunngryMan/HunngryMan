@@ -1,6 +1,7 @@
 
-<h1 align="center">Hi there 👋</h1>
-<p align="center"><img src="https://media.giphy.com/media/bLpfSs58aehZEBUfPH/giphy.gif"></p>
+<center>
+  <h1>Hi there 👋</h1>
+<img src="https://media.giphy.com/media/bLpfSs58aehZEBUfPH/giphy.gif" height="300" width="400" alt="GIF" >
 
 <!--
 **HunngryMan/HunngryMan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
