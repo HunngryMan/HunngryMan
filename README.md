@@ -1,6 +1,8 @@
+
+<center>
 ### Hi there 👋
 ![](https://media.giphy.com/media/bLpfSs58aehZEBUfPH/giphy.gif)
-
+</center>
 <!--
 **HunngryMan/HunngryMan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
